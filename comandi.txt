@@ -1,0 +1,30 @@
+  131  git config user.email provvisoria.lanini.tommaso@itismeucci.com
+  132  git status 
+  133  git add .
+  134  git commit -m "inserito nome"
+  135  git branch bugFix
+  136  git branch
+  137  git checkout bugFix 
+  138  git status 
+  139  git add .
+  140  git branch
+  141  git log
+  142  git checkout master
+  143  git merge bugFix 
+  144  git branch -r bugFix 
+  145  git branch 
+  146  git branch -R bugFix 
+  147  git branch 
+  148  git branch - bugFix 
+  149  git branch -r bugFix 
+  150  git branch -a bugFix 
+  151  git branch -r bugFix 
+  152  git branch -m bugFix 
+  153  git branch -r bugFix 
+  154  history 30 > comandi.txt
+  155  git checkout -r bugFix 
+  156  git branch
+  157  git branch -r bugFix
+  158  git branch -d bugFix
+  159  git branch
+  160  history 30 > comandi.txt
